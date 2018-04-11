@@ -3,10 +3,11 @@ based on the Template named "Landed" by HTML5 UP, described
 below ====== line below.
 
 The author of this website holds significant evidence supporting a
-belief that great iatrogenic harm is routinely inflicted upon myriad
-patients of many different healthcare institutions in many different
-countries without the patients realizing that they have been harmed
-because these patients have an insufficient understanding of medicine.
+belief that great iatrogenic harm is routinely and has been inflicted
+(for centuries) upon myriad patients of many different healthcare
+institutions in many different countries without the patients
+realizing that they have been harmed because these patients have an
+insufficient understanding of medicine.
 
 The Medical Democrat is a project that is attempting to make
 learning resources available to everyone that when thoroughly
