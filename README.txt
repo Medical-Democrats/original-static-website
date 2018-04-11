@@ -1,3 +1,19 @@
+The website http://medical.democrat is a derivative work, 
+based on the Template named "Landed" by HTML5 UP, described
+below ====== line below.
+
+The author holds significant evidence supporting a belief that great
+iatrogenic harm is routinely inflicted upon myriad patients of
+many different healthcare institutions in many different countries
+without the patients realizing that they have been harmed because
+these patients have an insufficient understanding of medicine.
+
+The Medical Democrat is a project that is attempting to make
+learning resources available to everyone that when thoroughly
+understood, can help protect patients from such iatrogenic harm.
+
+======
+
 Landed by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
